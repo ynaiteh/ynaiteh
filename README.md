@@ -3,7 +3,7 @@
 <p> ★ Biologist and Environmental management 🌳</p>
 <p> ★ GIS and Mathematical Modeling of Environmental System 🌎 </p>
 <p> ★ Learning and discovering the front-end  💻 </p>
-<p> ★ Slasher movie and Star Wars lover 🖤</p>
+<p> ★ Slasher movie lover 🖤</p>
 
 
 
