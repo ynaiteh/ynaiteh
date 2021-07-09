@@ -1,7 +1,7 @@
 <h1> Hey you, I'm Hetiany Costa. </h1>
 
 #### ★ Biologist and Environmental management 🌳
-#### ★ GIS and Mathematical Modeling of Environmental System 🌎
+#### ★ Doctoral student (GIS and Mathematical Modeling of Environmental System) 🌎
 #### ★ Learning and discovering the front-end  💻
 #### ★ Slasher movie lover 🖤
 
