@@ -2,7 +2,6 @@
 
 #### ★ Biologist and Environmental management 🌳
 #### ★ Doctoral student (GIS and Mathematical Modeling of Environmental System) 🌎
-#### ★ Learning and discovering the front-end  💻
 #### ★ Slasher movie lover 🖤
 
 
