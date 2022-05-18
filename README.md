@@ -1,9 +1,9 @@
-<h1> Hey you, I'm Hetiany Costa. </h1>
+<h3> Hello, I'm Hetiany Costa. </h3>
 
-#### ★ Biologist and Environmental management 🌳
-#### ★ Doctoral student (GIS and Mathematical Modeling of Environmental System) 🌎
-#### ★ Slasher movie lover 🖤
-
+###### • Biologist and Environmental management;
+###### • Doctoral candidate (GIS and Mathematical Modeling of Environmental System);
+###### • Working with Python in the PhD;
+###### • Data scientist/analyst (focused on spatial data).
 
 <hr><p></p>
 <h4 align="left">You can find me here:</h4>
